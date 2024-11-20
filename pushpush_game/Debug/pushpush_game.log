@@ -1,0 +1,9 @@
+﻿  map.c
+  lib.c
+c:\users\home\documents\visual studio 2010\projects\pushpush_game\pushpush_game\lib.c(13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\visual studio 2010\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2010\projects\pushpush_game\pushpush_game\lib.c(14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\visual studio 2010\vc\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+  game.c
+  코드를 생성하고 있습니다...
+  pushpush_game.vcxproj -> c:\users\home\documents\visual studio 2010\Projects\pushpush_game\Debug\pushpush_game.exe
